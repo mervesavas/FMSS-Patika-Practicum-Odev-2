@@ -1,3 +1,6 @@
+<img width="939" alt="Ekran Resmi 2023-04-09 10 30 26" src="https://user-images.githubusercontent.com/86923236/230761074-68aa4e56-6229-46a1-8af9-1673ae711ad5.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://app.patika.dev/
