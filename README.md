@@ -1,6 +1,6 @@
 <img width="939" alt="Ekran Resmi 2023-04-09 10 30 26" src="https://user-images.githubusercontent.com/86923236/230761074-68aa4e56-6229-46a1-8af9-1673ae711ad5.png">
 
-https://merve-savas-practicum-odev-2.netlify.app/
+Buradan deneyebilirsiniz: https://merve-savas-practicum-odev-2.netlify.app/
 
 # Getting Started with Create React App
 
